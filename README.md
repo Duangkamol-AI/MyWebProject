@@ -7,7 +7,8 @@
 # Example code
 ```<javascript>
 alert(‘ok’);
-</javascript>```
+</javascript>
+```
 # Credit
 [link][6214110009@mutacth.com]
 #License
