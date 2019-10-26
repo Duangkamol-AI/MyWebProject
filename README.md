@@ -11,5 +11,5 @@ alert(‘ok’);
 ```
 # Credit
 [link][6214110009@mutacth.com]
-# License
+#License
 ## MIT License
