@@ -1,2 +1,2 @@
-ignore.log
-ignore.env
+*.log
+*.env
